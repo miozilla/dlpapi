@@ -1,5 +1,5 @@
 # dlpapi 🦹👮💸
-dlpapi : Cloud Data Loss Prevention # DLP API # Sensitive Data Protection
+dlpapi : Cloud Data Loss Prevention # DLP API # Sensitive PII Data Protection # Redaction
 
 
 ## Objective
@@ -8,7 +8,7 @@ dlpapi : Cloud Data Loss Prevention # DLP API # Sensitive Data Protection
     - Redact sensitive data from text content
 
 
-# dlpapi
+# Cloud Data Loss Prevention API
 
 ![dlpapi001.png](./media/dlpapi001.png)
 
