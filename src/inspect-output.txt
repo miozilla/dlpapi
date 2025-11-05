@@ -1,0 +1,28 @@
+{
+  "result": {
+    "findings": [
+      {
+        "quote": "(206) 555-0123",
+        "infoType": {
+          "name": "PHONE_NUMBER",
+          "sensitivityScore": {
+            "score": "SENSITIVITY_MODERATE"
+          }
+        },
+        "likelihood": "VERY_LIKELY",
+        "location": {
+          "byteRange": {
+            "start": "19",
+            "end": "33"
+          },
+          "codepointRange": {
+            "start": "19",
+            "end": "33"
+          }
+        },
+        "createTime": "2025-11-05T14:59:04.036Z",
+        "findingId": "2025-11-05T14:59:04.037933Z8919493637068036426"
+      }
+    ]
+  }
+}
