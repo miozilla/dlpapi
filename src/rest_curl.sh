@@ -1,3 +1,5 @@
+#!/bin/bash
+
 curl -s \
   -H "Authorization: Bearer ACCESS_TOKEN" \
   -H "Content-Type: application/json" \
